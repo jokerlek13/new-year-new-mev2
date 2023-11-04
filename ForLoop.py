@@ -1,2 +1,2 @@
-for each_item in range(30):
+for each_item in range(40):
     print(each_item)
